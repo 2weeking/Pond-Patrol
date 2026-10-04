@@ -4,7 +4,7 @@ A simple tower defense game: place ducks, pop balloons, buy upgrades, and surviv
 
 ## Play the game
 
-**[▶ Play Pond Patrol in your browser](https://2weeking.github.io/AI-Project/)**
+**[▶ Play Pond Patrol in your browser](https://2weeking.github.io/Pond-Patrol/)**
 
 Click the link, then click **Let's quack**. You don't need to install anything.
 
